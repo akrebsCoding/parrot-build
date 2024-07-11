@@ -1,0 +1,1 @@
+Beim Cert erstellen in Burp muss man einfach die GetCert Datei umändern, und zwar von Version 17 auf 23.
